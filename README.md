@@ -1,1 +1,2 @@
 # SQLComplex_Query
+The SQL Project is designed to extract important information from complex datasets by asking specific questions. Using SQL queries, the project focuses on formulating targeted questions that explore various aspects of the data. By leveraging SQL's querying capabilities,the project retrieves relevant data points,aggregates and performs calculations to answer these questions comprehensively.In This Project i have used basic querying to include complex joins, subqueries, and conditional logic for more in-depth insights.
